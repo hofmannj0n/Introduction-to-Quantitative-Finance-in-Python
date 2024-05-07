@@ -1,6 +1,0 @@
-neuralprophet
-streamlit
-riskfolio
-ipython
-ydata-profiling
-streamlit-pandas-profiling
