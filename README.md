@@ -3,6 +3,7 @@
 Streamlit applications and Google Colaboratory notebooks with introductory material to qf in Python.
 
 [autoML.py](https://github.com/hofmannj0n/auto-machine-learning/blob/main/myapp.py) file contains streamlit app with automated machine learning
+
 [portfolio.py](https://github.com/hofmannj0n/auto-machine-learning/blob/main/myapp.py) file contains streamlit app with auto portfolio optimizer & EDA
 
 Inside the tutorials folder you will find notebooks detailing comprehensive looks into common trading algorithims, ARIMA modeling, and some of the more common finance libraries.
