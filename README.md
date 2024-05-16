@@ -28,5 +28,8 @@ make sure you have a code editor setup with python >= 3.10 and a zsh / bash base
 3. install dependencies
    `pip install -r requirements.txt`
 
-4. run application:
-   `streamlit run app.py`
+4. run applications:
+   `streamlit run autoML.py`
+   `streamlit run portfolio.py`
+
+5. explore ipynb's to further your understanding of qf
