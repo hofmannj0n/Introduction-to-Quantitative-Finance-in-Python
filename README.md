@@ -6,6 +6,8 @@ Streamlit applications and Google Colaboratory notebooks with introductory mater
 
 [portfolio.py](https://github.com/hofmannj0n/auto-machine-learning/blob/main/myapp.py) file contains streamlit app with auto portfolio optimizer & EDA
 
+[Notebooks](https://github.com/hofmannj0n/Introduction-to-Quantitative-Finance-in-Python/tree/main/tutorials) folder contains tutorials for various python packages dealing with financial data and time series modeling
+
 Inside the tutorials folder you will find notebooks detailing comprehensive looks into common trading algorithims, ARIMA modeling, and some of the more common finance libraries.
 
 tutorial is located here: and below 
