@@ -34,4 +34,4 @@ make sure you have a code editor setup with python >= 3.10 and a zsh / bash base
    `streamlit run autoML.py`
    `streamlit run portfolio.py`
 
-5. explore ipynb's to further your understanding of qf
+5. explore the jupyter notebooks located in tutorials to further your understanding of qf
