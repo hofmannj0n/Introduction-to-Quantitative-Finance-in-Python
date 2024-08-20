@@ -10,7 +10,7 @@ Streamlit applications and Google Colaboratory notebooks with introductory mater
 
 Inside the tutorials folder you will find notebooks detailing comprehensive looks into common trading algorithims, ARIMA modeling, and some of the more common finance libraries.
 
-tutorial is located here: and below 
+[Video tutorial located here](https://www.youtube.com/watch?v=ofzrvCPRRjw&t=5073s)
 
 # Prerequisites
 
