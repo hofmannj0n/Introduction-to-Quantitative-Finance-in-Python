@@ -1,1 +1,8 @@
+# ignore the env file (enviroment file that posseses the package installations)
 env
+
+# ignore all .png files --> png files are generated when running the pycaret models
+*.png
+
+# ignore all .logs files --> logs are generated when running pycaret models
+*.log
