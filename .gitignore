@@ -6,3 +6,6 @@ env
 
 # ignore all .logs files --> logs are generated when running pycaret models
 *.log
+
+# ignore lightning_logs generated when using the neural prophet model
+lightning_logs
