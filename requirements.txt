@@ -6,3 +6,4 @@ quantstats
 yfinance
 ydata-profiling
 streamlit-pandas-profiling
+pandas
