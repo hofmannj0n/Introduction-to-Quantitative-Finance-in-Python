@@ -2,9 +2,9 @@
 
 Streamlit applications and Google Colaboratory notebooks with introductory material to qf in Python.
 
-[autoML.py](https://github.com/hofmannj0n/auto-machine-learning/blob/main/myapp.py) file contains streamlit app with automated machine learning
+[autoML.py](https://github.com/hofmannj0n/introduction-to-quantitative-finance-in-python/blob/main/autoML.py) file contains streamlit app with automated machine learning
 
-[portfolio.py](https://github.com/hofmannj0n/auto-machine-learning/blob/main/myapp.py) file contains streamlit app with auto portfolio optimizer & EDA
+[portfolio.py](https://github.com/hofmannj0n/introduction-to-quantitative-finance-in-python/blob/main/portfolio.py) file contains streamlit app with auto portfolio optimizer & EDA
 
 [tutorials](https://github.com/hofmannj0n/Introduction-to-Quantitative-Finance-in-Python/tree/main/tutorials) folder contains tutorials for various python packages dealing with financial data and time series modeling
 
